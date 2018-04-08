@@ -1,0 +1,11 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "Morpheus Challenge 1",
+  "main": "challenge1.js",
+  "scripts": {
+    "start": "node ./challenge1.js"
+  },
+  "author": "DasCodeMonster",
+  "license": "ISC"
+}
